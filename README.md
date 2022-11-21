@@ -1,1 +1,2 @@
 # spos
+all programs: https://github.com/vnkdj5/SPPU_COMP_2015/tree/master/TE/SPOS%20LAB
