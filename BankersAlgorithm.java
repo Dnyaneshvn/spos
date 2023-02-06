@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class BankersAlgorithm {
+public class Main {
 	static Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) {
 		
